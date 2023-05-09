@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liquidacionCompra id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>JUAN GABRIEL GUALOTUÑA GUACHAMIN</razonSocial>
+    <nombreComercial>BL DIGITAL</nombreComercial>
+    <ruc>1721854675001</ruc>
+    <claveAcceso>1601202303172185467500110010010000000021234567817</claveAcceso>
+    <codDoc>03</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000002</secuencial>
+    <dirMatriz>AMAGUAÑA LOS SAUCES N13-128</dirMatriz>
+  </infoTributaria>
+  <infoLiquidacionCompra>
+    <fechaEmision>16/01/2023</fechaEmision>
+    <dirEstablecimiento>ARCHIDONA BARRIO SAN AGUSTIN C16 Y TRANSV. 20</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionProveedor>04</tipoIdentificacionProveedor>
+    <razonSocialProveedor>YOLANDA TIPAN</razonSocialProveedor>
+    <identificacionProveedor>1792840821001</identificacionProveedor>
+    <direccionProveedor>Av. Colón Oe2-24 entre Av. 10 de Agosto y Versalles</direccionProveedor>
+    <totalSinImpuestos>7.5</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>7.50</baseImponible>
+        <valor>0.90</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <importeTotal>8.4</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>8.4</total>
+      </pago>
+    </pagos>
+  </infoLiquidacionCompra>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>2</codigoPrincipal>
+      <descripcion>TECLADO GENIUS KB-128</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>7.5</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>7.50</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>7.5</baseImponible>
+          <valor>0.90</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Telefono">098405182</campoAdicional>
+    <campoAdicional nombre="Email">yolandatipan@idcmayoristas.com</campoAdicional>
+  </infoAdicional>
+</liquidacionCompra>

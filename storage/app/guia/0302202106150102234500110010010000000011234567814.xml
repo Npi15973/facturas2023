@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>DIAZ CAPA OSCAR ENRIQUE</razonSocial>
+    <nombreComercial>OTECH SOLUCIONES INFORMÁTICAS</nombreComercial>
+    <ruc>1501022345001</ruc>
+    <claveAcceso>0302202106150102234500110010010000000011234567814</claveAcceso>
+    <codDoc>06</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000001</secuencial>
+    <dirMatriz>ARCHIDONA BARRIO SAN AGUSTIN C16 TRANSV. 20</dirMatriz>
+  </infoTributaria>
+  <infoGuiaRemision>
+    <dirEstablecimiento>ARCHIDONA BARRIO SAN AGUSTIN C16 Y TRANSV. 20</dirEstablecimiento>
+    <dirPartida>los sauces</dirPartida>
+    <razonSocialTransportista>juan</razonSocialTransportista>
+    <tipoIdentificacionTransportista>04</tipoIdentificacionTransportista>
+    <rucTransportista>1721854675001</rucTransportista>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <fechaIniTransporte>10/02/2021</fechaIniTransporte>
+    <fechaFinTransporte>10/02/2021</fechaFinTransporte>
+    <placa/>
+  </infoGuiaRemision>
+  <destinatarios>
+    <destinatario>
+      <identificacionDestinatario>1501022345</identificacionDestinatario>
+      <razonSocialDestinatario>Oscar Enrique Diaz Capa</razonSocialDestinatario>
+      <dirDestinatario>archidona</dirDestinatario>
+      <motivoTraslado>motivi</motivoTraslado>
+      <detalles>
+        <detalle>
+          <codigoInterno>18797514</codigoInterno>
+          <descripcion>TECLADO GENIUS KB-128</descripcion>
+          <cantidad>3</cantidad>
+        </detalle>
+      </detalles>
+    </destinatario>
+  </destinatarios>
+  <infoAdicional>
+    <campoAdicional nombre="Telefono">0939693348</campoAdicional>
+    <campoAdicional nombre="Email">oscardiaz0077@hotmail.com</campoAdicional>
+  </infoAdicional>
+</guiaRemision>

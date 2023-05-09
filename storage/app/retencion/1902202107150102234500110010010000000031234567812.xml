@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comprobanteRetencion id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>DIAZ CAPA OSCAR ENRIQUE</razonSocial>
+    <nombreComercial>OTECH SOLUCIONES INFORMÁTICAS</nombreComercial>
+    <ruc>1501022345001</ruc>
+    <claveAcceso>1902202107150102234500110010010000000031234567812</claveAcceso>
+    <codDoc>07</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000003</secuencial>
+    <dirMatriz>ARCHIDONA BARRIO SAN AGUSTIN C16 TRANSV. 20</dirMatriz>
+  </infoTributaria>
+  <infoCompRetencion>
+    <fechaEmision>19/02/2021</fechaEmision>
+    <dirEstablecimiento>ARCHIDONA BARRIO SAN AGUSTIN C16 Y TRANSV. 20</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionSujetoRetenido>05</tipoIdentificacionSujetoRetenido>
+    <razonSocialSujetoRetenido>Oscar Enrique Diaz Capa</razonSocialSujetoRetenido>
+    <identificacionSujetoRetenido>1501022345</identificacionSujetoRetenido>
+    <periodoFiscal>2021</periodoFiscal>
+  </infoCompRetencion>
+  <impuestos>
+    <impuesto>
+      <codigo>2</codigo>
+      <codigoRetencion>9</codigoRetencion>
+      <baseImponible>123.00</baseImponible>
+      <porcentajeRetener>10</porcentajeRetener>
+      <valorRetenido>12.30</valorRetenido>
+      <codDocSustento>01</codDocSustento>
+      <numDocSustento>00100100000987</numDocSustento>
+      <fechaEmisionDocSustento>19/02/2021</fechaEmisionDocSustento>
+    </impuesto>
+  </impuestos>
+  <infoAdicional>
+    <campoAdicional nombre="Telefono">0939693348</campoAdicional>
+    <campoAdicional nombre="Email">juan.gabriel.077@gmail.com</campoAdicional>
+  </infoAdicional>
+</comprobanteRetencion>

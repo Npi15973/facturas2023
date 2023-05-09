@@ -1,0 +1,4 @@
+1.- Consultar pedidos asignados a repartidor atraves del id o token (hay que ver con que buscar)
+2.- Consultar Pedidos en rango de fechas inicio y final, fechas en formato dia/mes/año 00/00/0000
+2.- COnsultar datos del repartidor
+3.- Editar datos de repartidor uno por uno

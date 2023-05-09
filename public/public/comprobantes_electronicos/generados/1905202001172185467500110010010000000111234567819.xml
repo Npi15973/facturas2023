@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+    <infoTributaria>
+        <ambiente>1</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>JUAN GABRIEL GUALOTUÑA GUACHAMIN</razonSocial>
+        <nombreComercial>B&amp;L DIGITALBUSINESS</nombreComercial>
+        <ruc>1721854675001</ruc>
+        <claveAcceso>1905202001172185467500110010010000000111234567819</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000000011</secuencial>
+        <dirMatriz>LOS SAUCES N13-128</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>19/05/2020</fechaEmision>
+        <dirEstablecimiento>LOS SAUCES N13-128</dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>JUAN GABRIEL GUALOTUÑA</razonSocialComprador>
+        <identificacionComprador>1721854675</identificacionComprador>
+        <direccionComprador>Amaguaña los Sauces</direccionComprador>
+        <totalSinImpuestos>42.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>42.00</baseImponible>
+                <tarifa>0</tarifa>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>42.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>42.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>001</codigoPrincipal>
+            <descripcion>MIEL DE ABEJAS</descripcion>
+            <cantidad>3</cantidad>
+            <precioUnitario>14</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>42.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>42.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Dirección">Amaguaña los Sauces</campoAdicional>
+        <campoAdicional nombre="Teléfono">022875794</campoAdicional>
+        <campoAdicional nombre="Email">juan.gabriel.077@gmail.com</campoAdicional>
+    </infoAdicional>
+</factura>

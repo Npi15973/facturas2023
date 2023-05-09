@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notaDebito id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>JUAN GABRIEL GUALOTUÑA GUACHAMIN</razonSocial>
+    <nombreComercial>BL DIGITAL</nombreComercial>
+    <ruc>1721854675001</ruc>
+    <claveAcceso>1601202305172185467500110010010000000031234567815</claveAcceso>
+    <codDoc>05</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000003</secuencial>
+    <dirMatriz>AMAGUAÑA LOS SAUCES N13-128</dirMatriz>
+  </infoTributaria>
+  <infoNotaDebito>
+    <fechaEmision>16/01/2023</fechaEmision>
+    <dirEstablecimiento>ARCHIDONA BARRIO SAN AGUSTIN C16 Y TRANSV. 20</dirEstablecimiento>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>Oscar Enrique Diaz Capa</razonSocialComprador>
+    <identificacionComprador>1501022345</identificacionComprador>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <codDocModificado>01</codDocModificado>
+    <numDocModificado>001-001-000000109</numDocModificado>
+    <fechaEmisionDocSustento>16/01/2023</fechaEmisionDocSustento>
+    <totalSinImpuestos>5.00</totalSinImpuestos>
+    <impuestos>
+      <impuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <tarifa>0</tarifa>
+        <baseImponible>5.00</baseImponible>
+        <valor>0</valor>
+      </impuesto>
+    </impuestos>
+    <valorTotal>5.00</valorTotal>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>5.00</total>
+        <plazo>30</plazo>
+        <unidadTiempo>días</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoNotaDebito>
+  <motivos>
+    <motivo>
+      <razon>motivo</razon>
+      <valor>5.00</valor>
+    </motivo>
+  </motivos>
+  <infoAdicional>
+    <campoAdicional nombre="Telefono">0939693348</campoAdicional>
+    <campoAdicional nombre="Email">juan.gabriel.077@gmail.com</campoAdicional>
+  </infoAdicional>
+</notaDebito>

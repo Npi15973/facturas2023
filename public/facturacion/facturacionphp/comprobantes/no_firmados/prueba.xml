@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>ALEX</razonSocial>
+    <nombreComercial>ALEX</nombreComercial>
+    <ruc>0993303178001</ruc>
+    <claveAcceso>0212202201099330317800120010010000003151234567811</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000315</secuencial>
+    <dirMatriz>Ambato</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>02/12/2022</fechaEmision>
+    <dirEstablecimiento>Ambato</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>alex telenchana</razonSocialComprador>
+    <identificacionComprador>1804843900</identificacionComprador>
+    <totalSinImpuestos>1</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>0</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>1</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>1</total>
+        <plazo>1</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>0000003153</codigoPrincipal>
+      <descripcion>hola</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>1</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>1.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">alejiss401997@gmail.com</campoAdicional>
+  </infoAdicional>
+</factura>

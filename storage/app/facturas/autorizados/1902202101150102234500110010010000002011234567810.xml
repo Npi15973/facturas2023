@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.0.0"><infoTributaria><ambiente>1</ambiente><tipoEmision>1</tipoEmision><razonSocial>DIAZ CAPA OSCAR ENRIQUE</razonSocial><nombreComercial>OTECH SOLUCIONES INFORMATICAS</nombreComercial><ruc>1501022345001</ruc><claveAcceso>1902202101150102234500110010010000002011234567810</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>001</ptoEmi><secuencial>000000201</secuencial><dirMatriz>ARCHIDONA BARRIO SAN AGUSTIN C16 TRANSV. 20</dirMatriz></infoTributaria><infoFactura><fechaEmision>19/02/2021</fechaEmision><dirEstablecimiento>ARCHIDONA BARRIO SAN AGUSTIN C16 Y TRANSV. 20</dirEstablecimiento><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>07</tipoIdentificacionComprador><razonSocialComprador>CONSUMIDOR FINAL</razonSocialComprador><identificacionComprador>9999999999999</identificacionComprador><totalSinImpuestos>11.61</totalSinImpuestos><totalDescuento>0</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><descuentoAdicional>0</descuentoAdicional><baseImponible>11.61</baseImponible><valor>1.39</valor></totalImpuesto></totalConImpuestos><propina>0</propina><importeTotal>13</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>13</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>2</codigoPrincipal><codigoAuxiliar>18797514</codigoAuxiliar><descripcion>TECLADO GENIUS KB-128</descripcion><cantidad>1</cantidad><precioUnitario>11.61</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>11.61</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>11.61</baseImponible><valor>1</valor></impuesto></impuestos></detalle></detalles><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature129840">
+<ds:SignedInfo Id="Signature-SignedInfo748175">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID393075" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature129840-SignedProperties262341">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>+EJiUxaxB8lZ8q2hAGIKxTCc768=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate135695">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>PqkTDulVg4Vumdj738KfyT87IvI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-878626" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>3p4M9U1ydus4TKRy01P0fdWhtpQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue753001">
+R3zHl2VWryEWmkgFK6n39oSy5zuy6v7/5r3QyBcyIQctl0TQHDBzuKwLWKORjGn5B8SbDKupLNcl
+Zcqnp9SrfF5XgKRoOM9/KGKZiRmwpv5BgZum0TSgn5/nAUXCFnWmamGh8moeg2rh4/r6toi+ojsv
+OUyaX/8ML/tgf+1cbJXG2kJsYsZyovrO5BnZzc6Aix4aB3xgnTd5avYCUd+AXJfuAVh1/G6/Anok
+RMnMi1PvZBXVl8nXNK7oE6yXeJjeOqq9RvTTkUqGVG1IE45eIas25ZTYWHf2NhO01L7V4fcKqynC
+OU9QczyVlIIcyTBArLY814MVVzELPYf48UUXng==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate135695">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJqTCCB5GgAwIBAgIEW2FnPDANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTE5MTAyMjE0MTU1NloXDTIxMTAyMjE0NDU1
+Nlowga8xCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzEzMBEGA1UEBRMKMDAwMDQxMTE5NzAeBgNVBAMTF09TQ0FSIEVOUklRVUUg
+RElBWiBDQVBBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyBmY5x9EK70rweAMRycZ
+JyxX8UROz4RTJT3UJt8JE0heoB5XVz0ZHvrd9h9oJ4GpzKOWY+BLZnMFEScsnaEnHx97PhikExcN
+5b1qsNh4aAfgY5yS9cmpGCvx6AudvTKUBAl2flYOi/B+eyH2xuNZ6y9YcSoyPMGqLsu/+s4nLWPS
+z4vrN1SwGE+SBOjCdD8QJHLDohVcatsYfb51dNuOk+EKYNSUDAA8SoboKzYzGguKbQY0qiDocMPy
+4N7Md7EKBePpfJH23XJNtWGDvagDlTTBmB/bRncpt8ayEiGObaeIWzJVTErFFJ0owAjT5/pKfa8Z
+kM7Utkge0wDyGc5J6wIDAQABo4IE1zCCBNMwCwYDVR0PBAQDAgeAMGYGA1UdIARfMF0wWwYLKwYB
+BAGCqDsCAQEwTDBKBggrBgEFBQcCARY+aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0aWNhLWNl
+cnRpZmljYWRvL3BlcnNvbmEtbmF0dXJhbC5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4GCCsGAQUF
+BzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDA/
+BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1
+cy9vY3NwMBoGCisGAQQBgqg7AwEEDBMKMTUwMTAyMjM0NTAdBgorBgEEAYKoOwMCBA8TDU9TQ0FS
+IEVOUklRVUUwFAYKKwYBBAGCqDsDAwQGEwRESUFaMBQGCisGAQQBgqg7AwQEBhMEQ0FQQTA1Bgor
+BgEEAYKoOwMHBCcTJUJBUlJJTyBTQU4gQUdVU1RJTiBDQUxMRSAxNiBUUkFOU1YgMjAwGQYKKwYB
+BAGCqDsDCAQLEwkwNjI4NzMyNjEwGQYKKwYBBAGCqDsDCQQLEwlBcmNoaWRvbmEwFwYKKwYBBAGC
+qDsDDAQJEwdFQ1VBRE9SMB0GCisGAQQBgqg7AwsEDxMNMTUwMTAyMjM0NTAwMTAgBgorBgEEAYKo
+OwMzBBITEFNPRlRXQVJFLUFSQ0hJVk8wJAYDVR0RBB0wG4EZb3NjYXJkaWF6MDA3N0Bob3RtYWls
+LmNvbTCCAd8GA1UdHwSCAdYwggHSMIIBzqCCAcqgggHGhoHVbGRhcDovL2JjZXFsZGFwc3VicDEu
+YmNlLmVjL2NuPUNSTDg1OCxjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1Is
+bD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lP
+Ti1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNh
+dGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2Vf
+ZWNfY3JsZmlsZWNvbWIuY3JspIG1MIGyMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VO
+VFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENFTlRS
+QUwgREVMIEVDVUFET1IxDzANBgNVBAMTBkNSTDg1ODArBgNVHRAEJDAigA8yMDE5MTAyMjE0MTU1
+NlqBDzIwMjExMDIyMTQ0NTU2WjAfBgNVHSMEGDAWgBRIot8jHx34LFF6jAPNSTKlCcGUqzAdBgNV
+HQ4EFgQU9x5VybA97Ip+Obl0cp+75zXgngowCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAKGwRW
+OC4xAwIEsDANBgkqhkiG9w0BAQsFAAOCAgEAy7FfWil/0+BPyUEoKHz84o1wn4ycgLYjZH/8kJuI
+L9E0d+Fwin/PB8GKTMV3H458ywdWAHxfk1Gt3J9cWFY1URVasVgM+AcYOBk4VChogy25VooFMPIe
+7t1CoZbJzEowTB164j1APjG6sosjn8rnVFOrmZJkRBC3Vq3iUPF40eWcJhc0Cc/SEV8mLOuyZai5
+WsFR1SokZAWB1tm6Owucmd8/0GY3NkmSIxom9yiMexZYFKz2ZxyxhXL7mPIyobPG6szabP4gmQhf
+fMZEKn2AyWu2v+GcdgJaIe/ViKjqWYyglb81KcA9hPmdLN0htK/QlEXb9yzPkE7tgcrnZJ/ubZ6V
+eJWDoWKHGQDNrPDiRPRFDeJJXRNcZz2u3o6UWpcQWXys6fpMY23rAfC5GTedjIXW7rHb1TjIKSk5
+H0UP+XreZQsv5dOHPMandFfUl2w4D/jDBvvCKTKeBC2rPLvPpo+dPQlWbS667q8b8RHWMBgCndFc
+sVGDih3B7a5MmIBOnd4AMwak9bt3kuHd60JfRLn+q2Qp08AAZnX5XnM1DYAxPJyEFHF40O5hp8i/
+eq+xoYuuRZ3V18vauYQwk7uyIxJVffgdnx7Wg7XfBuroIw2ovixp1Fl6kDaak6R3ru+7m39AfJ4q
+c9fAYBKJHner5pD6obNZOoJjbImjiO6AJ+A=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+yBmY5x9EK70rweAMRycZJyxX8UROz4RTJT3UJt8JE0heoB5XVz0ZHvrd9h9oJ4GpzKOWY+BLZnMF
+EScsnaEnHx97PhikExcN5b1qsNh4aAfgY5yS9cmpGCvx6AudvTKUBAl2flYOi/B+eyH2xuNZ6y9Y
+cSoyPMGqLsu/+s4nLWPSz4vrN1SwGE+SBOjCdD8QJHLDohVcatsYfb51dNuOk+EKYNSUDAA8Sobo
+KzYzGguKbQY0qiDocMPy4N7Md7EKBePpfJH23XJNtWGDvagDlTTBmB/bRncpt8ayEiGObaeIWzJV
+TErFFJ0owAjT5/pKfa8ZkM7Utkge0wDyGc5J6w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature129840-Object355310"><etsi:QualifyingProperties Target="#Signature129840"><etsi:SignedProperties Id="Signature129840-SignedProperties262341"><etsi:SignedSignatureProperties><etsi:SigningTime>2021-02-19T19:32:46-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>q/ABtuSUNg5d7FRyHSiSiE+ECYE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533110076</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-878626"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

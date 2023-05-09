@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>DIAZ CAPA OSCAR ENRIQUE</razonSocial>
+    <nombreComercial>OTECH SOLUCIONES INFORMÁTICAS</nombreComercial>
+    <ruc>1501022345001</ruc>
+    <claveAcceso>2401202101150102234500110010010000000911234567819</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000091</secuencial>
+    <dirMatriz>ARCHIDONA BARRIO SAN AGUSTIN C16 TRANSV. 20</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>24/01/2021</fechaEmision>
+    <dirEstablecimiento>ARCHIDONA BARRIO SAN AGUSTIN C16 Y TRANSV. 20</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador/>
+    <razonSocialComprador>Oscar Enrique Diaz Capa</razonSocialComprador>
+    <identificacionComprador>1501022345</identificacionComprador>
+    <totalSinImpuestos>11.61</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>11.61</baseImponible>
+        <valor>1.39</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>13</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>13</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>2</codigoPrincipal>
+      <codigoAuxiliar>18797514</codigoAuxiliar>
+      <descripcion>TECLADO GENIUS KB-128</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>11.61</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>11.61</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>11.61</baseImponible>
+          <valor>1</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+</factura>

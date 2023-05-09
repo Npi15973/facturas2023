@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comprobanteRetencion id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>DIAZ CAPA OSCAR ENRIQUE</razonSocial>
+    <nombreComercial>OTECH SOLUCIONES INFORMÁTICAS</nombreComercial>
+    <ruc>1501022345001</ruc>
+    <claveAcceso>2302202107150102234500120010010000000081234567814</claveAcceso>
+    <codDoc>07</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000008</secuencial>
+    <dirMatriz>ARCHIDONA BARRIO SAN AGUSTIN C16 TRANSV. 20</dirMatriz>
+  </infoTributaria>
+  <infoCompRetencion>
+    <fechaEmision>23/02/2021</fechaEmision>
+    <dirEstablecimiento>ARCHIDONA BARRIO SAN AGUSTIN C16 Y TRANSV. 20</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionSujetoRetenido>04</tipoIdentificacionSujetoRetenido>
+    <razonSocialSujetoRetenido>YOLANDA TIPAN</razonSocialSujetoRetenido>
+    <identificacionSujetoRetenido>1792840821001</identificacionSujetoRetenido>
+    <periodoFiscal>02/2020</periodoFiscal>
+  </infoCompRetencion>
+  <impuestos>
+    <impuesto>
+      <codigo>2</codigo>
+      <codigoRetencion>10</codigoRetencion>
+      <baseImponible>123.00</baseImponible>
+      <porcentajeRetener>20</porcentajeRetener>
+      <valorRetenido>24.60</valorRetenido>
+      <codDocSustento>01</codDocSustento>
+      <numDocSustento>0010001000000093</numDocSustento>
+      <fechaEmisionDocSustento>23/02/2021</fechaEmisionDocSustento>
+    </impuesto>
+  </impuestos>
+  <infoAdicional>
+    <campoAdicional nombre="Telefono">098405182</campoAdicional>
+    <campoAdicional nombre="Email">yolandatipan@idcmayoristas.com</campoAdicional>
+  </infoAdicional>
+</comprobanteRetencion>

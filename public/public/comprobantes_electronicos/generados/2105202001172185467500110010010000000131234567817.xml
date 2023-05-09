@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+    <infoTributaria>
+        <ambiente>1</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>JUAN GABRIEL GUALOTUÑA GUACHAMIN</razonSocial>
+        <nombreComercial>B&amp;L DIGITALBUSINESS</nombreComercial>
+        <ruc>1721854675001</ruc>
+        <claveAcceso>2105202001172185467500110010010000000131234567817</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000000013</secuencial>
+        <dirMatriz>LOS SAUCES N13-128</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>21/05/2020</fechaEmision>
+        <dirEstablecimiento>LOS SAUCES N13-128</dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>07</tipoIdentificacionComprador>
+        <razonSocialComprador>CONSUMIDOR FINAL</razonSocialComprador>
+        <identificacionComprador>9999999999999</identificacionComprador>
+        <totalSinImpuestos>14.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>14.00</baseImponible>
+                <tarifa>0</tarifa>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>14.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>14.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>001</codigoPrincipal>
+            <descripcion>MIEL DE ABEJAS</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>14</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>14.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>14.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+</factura>

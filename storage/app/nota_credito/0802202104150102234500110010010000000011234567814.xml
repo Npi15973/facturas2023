@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notaCredito id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>DIAZ CAPA OSCAR ENRIQUE</razonSocial>
+    <nombreComercial>OTECH SOLUCIONES INFORMÁTICAS</nombreComercial>
+    <ruc>1501022345001</ruc>
+    <claveAcceso>0802202104150102234500110010010000000011234567814</claveAcceso>
+    <codDoc>04</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000001</secuencial>
+    <dirMatriz>ARCHIDONA BARRIO SAN AGUSTIN C16 TRANSV. 20</dirMatriz>
+  </infoTributaria>
+  <infoNotaCredito>
+    <fechaEmision>08/02/2021</fechaEmision>
+    <dirEstablecimiento>ARCHIDONA BARRIO SAN AGUSTIN C16 Y TRANSV. 20</dirEstablecimiento>
+    <tipoIdentificacionComprador/>
+    <razonSocialComprador>Oscar Enrique Diaz Capa</razonSocialComprador>
+    <identificacionComprador>1501022345</identificacionComprador>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <codDocModificado>01</codDocModificado>
+    <numDocModificado>001-001-000000897</numDocModificado>
+    <fechaEmisionDocSustento>08/02/2021</fechaEmisionDocSustento>
+    <totalSinImpuestos>29</totalSinImpuestos>
+    <valorModificacion>32.31</valorModificacion>
+    <moneda>DOLAR</moneda>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>28.85</baseImponible>
+        <valor>3.46</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <motivo>error</motivo>
+  </infoNotaCredito>
+  <detalles>
+    <detalle>
+      <codigoInterno>2</codigoInterno>
+      <descripcion>TECLADO GENIUS KB-128</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>13</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>13.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>13</baseImponible>
+          <valor>1</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoInterno>3</codigoInterno>
+      <descripcion>demo</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>16</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>16.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>16</baseImponible>
+          <valor>2</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Telefono">0939693348</campoAdicional>
+    <campoAdicional nombre="Email">oscardiaz0077@hotmail.com</campoAdicional>
+  </infoAdicional>
+</notaCredito>

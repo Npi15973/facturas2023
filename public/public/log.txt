@@ -1,0 +1,1539 @@
+Servicio: Validar Comprobante
+Clave Acceso: 1905202001172185467500110010010000000111234567819
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 1905202001172185467500110010010000000111234567819
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 1905202001172185467500110010010000000111234567819
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 1905202001172185467500110010010000000111234567819
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Autorizacion Comprobante
+Clave Acceso: 1905202001172185467500110010010000000111234567819
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 1905202001172185467500110010010000000111234567819
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 1905202001172185467500110010010000000111234567819
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 1905202001172185467500110010010000000111234567819
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 1905202001172185467500110010010000000111234567819
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 1905202001172185467500110010010000000111234567819
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 1905202001172185467500110010010000000111234567819
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 1905202001172185467500110010010000000111234567819
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 1905202001172185467500110010010000000111234567819
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 1905202001172185467500110010010000000111234567819
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 1905202001172185467500110010010000000111234567819
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 1905202001172185467500110010010000000111234567819
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 1905202001172185467500110010010000000111234567819
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 1905202001172185467500110010010000000111234567819
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 1905202001172185467500110010010000000111234567819
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 1905202001172185467500110010010000000111234567819
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 2105202001172185467500110010010000000131234567817
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 2105202001172185467500110010010000000131234567817
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+Servicio: Validar Comprobante
+Clave Acceso: 1905202001172185467500110010010000000111234567819
+Respuesta: Array
+(
+    [estado] => DEVUELTA
+    [comprobantes] => Array
+        (
+            [comprobante] => Array
+                (
+                    [claveAcceso] => 1905202001172185467500110010010000000111234567819
+                    [mensajes] => Array
+                        (
+                            [mensaje] => Array
+                                (
+                                    [identificador] => 43
+                                    [mensaje] => CLAVE ACCESO REGISTRADA
+                                    [tipo] => ERROR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+

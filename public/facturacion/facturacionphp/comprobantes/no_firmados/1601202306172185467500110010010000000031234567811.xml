@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>JUAN GABRIEL GUALOTUÑA GUACHAMIN</razonSocial>
+    <nombreComercial>BL DIGITAL</nombreComercial>
+    <ruc>1721854675001</ruc>
+    <claveAcceso>1601202306172185467500110010010000000031234567811</claveAcceso>
+    <codDoc>06</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000003</secuencial>
+    <dirMatriz>AMAGUAÑA LOS SAUCES N13-128</dirMatriz>
+  </infoTributaria>
+  <infoGuiaRemision>
+    <dirEstablecimiento>ARCHIDONA BARRIO SAN AGUSTIN C16 Y TRANSV. 20</dirEstablecimiento>
+    <dirPartida>quito</dirPartida>
+    <razonSocialTransportista>tarsnportista</razonSocialTransportista>
+    <tipoIdentificacionTransportista>04</tipoIdentificacionTransportista>
+    <rucTransportista>1721854675001</rucTransportista>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <fechaIniTransporte>16/01/2023</fechaIniTransporte>
+    <fechaFinTransporte>16/01/2023</fechaFinTransporte>
+    <placa>pjk8987</placa>
+  </infoGuiaRemision>
+  <destinatarios>
+    <destinatario>
+      <identificacionDestinatario>1501022345</identificacionDestinatario>
+      <razonSocialDestinatario>Oscar Enrique Diaz Capa</razonSocialDestinatario>
+      <dirDestinatario>archidona</dirDestinatario>
+      <motivoTraslado/>
+      <detalles>
+        <detalle>
+          <codigoInterno>18797514</codigoInterno>
+          <descripcion>TECLADO GENIUS KB-128</descripcion>
+          <cantidad>5</cantidad>
+        </detalle>
+      </detalles>
+    </destinatario>
+  </destinatarios>
+  <infoAdicional>
+    <campoAdicional nombre="Telefono">0939693348</campoAdicional>
+    <campoAdicional nombre="Email">juan.gabriel.077@gmail.com</campoAdicional>
+  </infoAdicional>
+</guiaRemision>
